@@ -1,5 +1,10 @@
 # 💫 About Me:
-Working on Angular, React, Node.js, and Python-based applications  <br>Open to collaboration on frontend and full-stack projects  <br>Seeking insights on scalable architectures and performance tuning  <br>Learning advanced TypeScript, Node.js, and Python  <br>Ask me about frontend engineering and clean architecture  <br>Fun fact: I believe good code reads like documentation
+🚀 **Full-Stack Developer** specializing in Angular, React, Node.js, and Python ecosystems  
+🤝 **Open to collaboration** on innovative frontend and full-stack projects  
+🏗️ **Passionate about** scalable architectures, performance optimization, and clean code principles  
+📚 **Currently mastering** advanced TypeScript patterns, Node.js microservices, and Python frameworks  
+💬 **Ask me about** frontend engineering, system design, and architectural best practices  
+⚡ **Philosophy:** "Great code tells a story - it should read like well-written documentation"
 
 
 ## 🌐 Socials:
