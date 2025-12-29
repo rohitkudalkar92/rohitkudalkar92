@@ -1,10 +1,10 @@
 # About Me:
-🚀 **Full-Stack Developer** specializing in Angular, React, Node.js, and Python ecosystems  
-🤝 **Open to collaboration** on innovative frontend and full-stack projects  
-🏗️ **Passionate about** scalable architectures, performance optimization, and clean code principles  
-📚 **Currently mastering** advanced TypeScript patterns, Node.js microservices, and Python frameworks  
-💬 **Ask me about** frontend engineering, system design, and architectural best practices  
-⚡ **Philosophy:** "Great code tells a story - it should read like well-written documentation"
+**Full-Stack Developer** specialising in Angular, React, Node.js, and Python ecosystems  
+**Open to collaboration** on innovative frontend and full-stack projects  
+**Passionate about** scalable architectures, performance optimisation, and clean code principles  
+**Currently mastering** advanced TypeScript patterns, Node.js microservices, and Python frameworks  
+**Ask me about** frontend engineering, system design, and architectural best practices  
+**Philosophy:** "Great code tells a story - it should read like well-written documentation"
 
 
 ## Socials:
@@ -13,34 +13,32 @@
 # 💻 Tech Stack:
 
 ## Frontend Technologies
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/html5-323330?style=for-the-badge&logo=html5&logoColor=E34F26) ![Angular](https://img.shields.io/badge/angular-323330?style=for-the-badge&logo=angular&logoColor=DD0031) ![Angular.js](https://img.shields.io/badge/angular.js-323330?style=for-the-badge&logo=angularjs&logoColor=E23237) ![React](https://img.shields.io/badge/react-323330?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/react_native-323330?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Router](https://img.shields.io/badge/React_Router-323330?style=for-the-badge&logo=react-router&logoColor=CA4245) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-323330?style=for-the-badge&logo=reacthookform&logoColor=EC5990) ![Redux](https://img.shields.io/badge/redux-323330?style=for-the-badge&logo=redux&logoColor=593d88) ![Context-API](https://img.shields.io/badge/Context--Api-323330?style=for-the-badge&logo=react&logoColor=61DAFB) ![SolidJS](https://img.shields.io/badge/SolidJS-323330?style=for-the-badge&logo=solid&logoColor=2c4f7c) ![Gatsby](https://img.shields.io/badge/Gatsby-323330?style=for-the-badge&logo=gatsby&logoColor=663399) ![Nuxt JS](https://img.shields.io/badge/Nuxt-323330?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
 
 ### UI/CSS Frameworks
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-323330?style=for-the-badge&logo=SASS&logoColor=hotpink) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-323330?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) ![Ant-Design](https://img.shields.io/badge/-AntDesign-323330?style=for-the-badge&logo=ant-design&logoColor=0170FE) ![Bulma](https://img.shields.io/badge/bulma-323330?style=for-the-badge&logo=bulma&logoColor=00D0B1) ![Chakra](https://img.shields.io/badge/chakra-323330?style=for-the-badge&logo=chakraui&logoColor=4ED1C5)
 
 ### Data Visualization
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-323330?style=for-the-badge&logo=chart.js&logoColor=F5788D)
 
 ### Frontend Tools
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-323330?style=for-the-badge&logo=reactivex&logoColor=B7178C) ![Web3.js](https://img.shields.io/badge/web3.js-323330?style=for-the-badge&logo=web3.js&logoColor=F16822)
 
 ## Backend Technologies
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-323330?style=for-the-badge&logo=node.js&logoColor=6DA55F) ![NestJS](https://img.shields.io/badge/nestjs-323330?style=for-the-badge&logo=nestjs&logoColor=E0234E) ![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=3670A0) ![Django](https://img.shields.io/badge/django-323330?style=for-the-badge&logo=django&logoColor=092E20) ![PHP](https://img.shields.io/badge/php-323330?style=for-the-badge&logo=php&logoColor=777BB4) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-323330?style=for-the-badge&logo=codeIgniter&logoColor=EF4223)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql&logoColor=4479A1) ![SQLite](https://img.shields.io/badge/sqlite-323330?style=for-the-badge&logo=sqlite&logoColor=07405e) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-323330?style=for-the-badge&logo=elasticsearch&logoColor=0377CC)
 
 ### Web Servers
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-323330?style=for-the-badge&logo=apache&logoColor=D42029) ![Nginx](https://img.shields.io/badge/nginx-323330?style=for-the-badge&logo=nginx&logoColor=009639)
 
 ## Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-323330?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Netlify](https://img.shields.io/badge/netlify-323330?style=for-the-badge&logo=netlify&logoColor=00C7B7) ![GitHub Actions](https://img.shields.io/badge/github%20actions-323330?style=for-the-badge&logo=githubactions&logoColor=2671E5)
 
 ## Development Tools
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-323330?style=for-the-badge&logo=npm&logoColor=CB3837) ![Yarn](https://img.shields.io/badge/yarn-323330?style=for-the-badge&logo=yarn&logoColor=2C8EBB) ![Webpack](https://img.shields.io/badge/webpack-323330?style=for-the-badge&logo=webpack&logoColor=8DD6F9) ![Babel](https://img.shields.io/badge/Babel-323330?style=for-the-badge&logo=babel&logoColor=F9DC3e)
 
-## Other Technologies
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rohitkudalkar92&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rohitkudalkar92&theme=dark&hide_border=false)<br/>
