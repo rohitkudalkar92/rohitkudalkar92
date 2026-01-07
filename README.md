@@ -38,13 +38,4 @@
 
 ## Development Tools
 ![NPM](https://img.shields.io/badge/NPM-323330?style=for-the-badge&logo=npm&logoColor=CB3837) ![Yarn](https://img.shields.io/badge/yarn-323330?style=for-the-badge&logo=yarn&logoColor=2C8EBB) ![Webpack](https://img.shields.io/badge/webpack-323330?style=for-the-badge&logo=webpack&logoColor=8DD6F9) ![Babel](https://img.shields.io/badge/Babel-323330?style=for-the-badge&logo=babel&logoColor=F9DC3e)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohitkudalkar92&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohitkudalkar92&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkudalkar92&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=rohitkudalkar92&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
